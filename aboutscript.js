@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const pinLink = document.querySelector('.pin-BGK');
     const mailLink = document.querySelector('.mail-KdR');
   
-    // Add event listeners
+    
     aboutLink.addEventListener('click', function() {
       window.location.href = 'about.html';
     });
