@@ -1,0 +1,270 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.contact-F8K {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.contact-F8K .rectangle01-MSF {
+  width: 10.1rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 129rem;
+  top: 4.7rem;
+  background-color: #d8482e;
+  border-radius: 1rem;
+}
+.contact-F8K .contact-tBH {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 129.9rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .blog-kUP {
+  width: 4.8rem;
+  height: 2.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 115rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .home-UQP {
+  width: 6.4rem;
+  height: 2.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 80.4rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .about-oBm {
+  width: 7.1rem;
+  height: 2.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 97.7rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .amalgamation-pMm {
+  width: 26.1rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 10.7rem;
+  top: 4.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .contact-bg--8tF {
+  width: 52.1rem;
+  height: 78.4rem;
+  position: absolute;
+  left: 72rem;
+  top: 16.1rem;
+  box-shadow: inset -0.77rem 0.77rem 0.77rem rgba(255, 255, 255, 0.1000000015)), inset 0.77rem -0.77rem 0.77rem rgba(149, 149, 149, 0.1000000015));
+  backdrop-filter: blur(0.77rem);
+  background-color: rgba(227, 124, 65, 0.5);
+}
+.contact-F8K .contact-us-aVM {
+  width: 18.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 87.945rem;
+  top: 18.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .name-bg-szF {
+  width: 41.42rem;
+  height: 6.27rem;
+  position: absolute;
+  left: 77.67rem;
+  top: 29.7rem;
+  background-color: rgba(250, 251, 252, 0.9399999976);
+  border-radius: 1rem;
+}
+.contact-F8K .name-cS3 {
+  width: 4.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 79.65rem;
+  top: 31.78rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .email-bg-hCb {
+  width: 41.42rem;
+  height: 6.27rem;
+  position: absolute;
+  left: 77.67rem;
+  top: 40.72rem;
+  background-color: rgba(250, 251, 252, 0.9399999976);
+  border-radius: 1rem;
+}
+.contact-F8K .email-q3u {
+  width: 4.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 80.1225rem;
+  top: 42.8025rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .ws-bg-Wfq {
+  width: 41.42rem;
+  height: 20.14rem;
+  position: absolute;
+  left: 77.67rem;
+  top: 51.74rem;
+  background-color: rgba(250, 251, 252, 0.9399999976);
+  border-radius: 1rem;
+}
+.contact-F8K .write-something-ouq {
+  width: 14.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 79.665rem;
+  top: 53.8225rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .submit-bg-hEX {
+  width: 12.73rem;
+  height: 5.32rem;
+  position: absolute;
+  left: 91.4rem;
+  top: 74.7rem;
+  background-color: rgba(255, 255, 255, 0.6499999762);
+  border-radius: 1.1rem;
+}
+.contact-F8K .submit-q5q {
+  width: 7.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 93.97rem;
+  top: 75.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-F8K .insta-WSs {
+  width: 3.9037rem;
+  height: 3.9036rem;
+  position: absolute;
+  left: 80.1487rem;
+  top: 85.7482rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-F8K .fb-CqV {
+  width: 3.9063rem;
+  height: 3.9063rem;
+  position: absolute;
+  left: 90.1469rem;
+  top: 85.7469rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-F8K .pin-LRu {
+  width: 4.375rem;
+  height: 4.375rem;
+  position: absolute;
+  left: 100.2125rem;
+  top: 85.5125rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-F8K .mail-V3u {
+  width: 4.375rem;
+  height: 3.4375rem;
+  position: absolute;
+  left: 109.9125rem;
+  top: 85.9813rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-F8K .email-photo-2pX {
+  width: 52.2rem;
+  height: 78.3rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 16.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
