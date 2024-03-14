@@ -19,8 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Display an alert box with "Message sent" message
     alert("Message sent");
 
-    // You can further process this data, such as sending it to a server via AJAX
-    // For simplicity, we're just displaying an alert box in this example
+  
   });
 
   
