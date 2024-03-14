@@ -1,10 +1,10 @@
 
 document.addEventListener("DOMContentLoaded", function() {
     // Navigation items
-    const homeLink = document.querySelector('.home-kCP','.home-gB9','.home-veK');
-    const blogLink = document.querySelector('.blog-fTm','.blog-SGo','.blog-JN3');
-    const aboutLink = document.querySelector('.about-N7H','.about-BLs');
-    const contactLink = document.querySelector('.contact-uWX','.contact-kYP');
+    const homeLink = document.querySelector('.home-kCP');
+    const blogLink = document.querySelector('.blog-fTm');
+    const aboutLink = document.querySelector('.about-N7H');
+    const contactLink = document.querySelector('.contact-uWX');
     const amalgamationLink = document.querySelector('.amalgamation-T4B');
   
     // Image links
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const mailLink = document.querySelector('.mail-DgS');
     const photoLink = document.querySelector('.photo-kAa');
   
-    // Add event listeners
+    // listeners
     homeLink.addEventListener('click', function() {
       window.location.href = 'index.html';
     });
